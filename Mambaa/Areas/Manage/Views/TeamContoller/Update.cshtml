@@ -1,0 +1,57 @@
+﻿@model Team
+<div class="container shadow " style="max-width:800px;padding:50px;margin-bottom:50px;">
+    <div class="mb-3">
+        <h1>Create a Team</h1>
+    </div>
+    <form method="post" enctype="multipart/form-data">
+
+        <div class="mb-3">
+            <label for="" class="form-label">Name</label>
+            <input asp-for="FullName" class="form-control">
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">instagram</label>
+            <input asp-for="InstagramReDir" class="form-control">
+            <span asp-validation-for="InstagramReDir" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">facebook</label>
+            <input asp-for="FaceBookReDir" class="form-control">
+            <span asp-validation-for="FaceBookReDir" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">twiter</label>
+            <input asp-for="TwiterReDir" class="form-control">
+            <span asp-validation-for="TwiterReDir" style="color:red"></span>
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">imageurl</label>
+            <input asp-for="Imageurl" class="form-control">
+            <span asp-validation-for="Imageurl" style="color:red"></span>
+        </div>
+        <div class="row col-12" style="padding: 0px;">
+        </div>
+        <div class="row col-12" style="padding:0px;">
+        </div>
+        <div class="row col-12" style="padding:0px;">
+            <div class="col-md-4 d-flex align-items-center justify-content-center">
+                <label asp-for="PosittionId">posittion</label>
+             
+                <select asp-for="PosittionId" asp-items="@(new SelectList(ViewBag.Posittion,"Id", "Name"))"></select>
+                <span asp-validation-for="PosittionId" style="color:red"></span>
+            </div>
+
+        </div>
+
+        <div class="row col-12 my-4 align-items-center flex-column" style="padding:0px;">
+            <div class="col-md-12 d-flex align-items-center justify-content-center mt-4">
+                <label asp-for="Img">image</label>
+                <input class="form-control  ml-3" asp-for="Img" />
+                <span asp-validation-for="Img" style="color:red"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary w-25">Submit</button>
+        <a class="btn btn-success w-25" asp-action="Index" asp-controller="Team">Back To Home</a>
+    </form>
+</div>

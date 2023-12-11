@@ -1,0 +1,27 @@
+﻿@model Team
+@{
+    string currency = "azn";
+    string percentage = "%";
+}
+<form method="post" enctype="multipart/form-data">
+    <div class="container col-12 my-5">
+        <div class="card" style="width: 18rem;margin-bottom:10px;">
+            <div class="card-header">
+                <h3 style="font-weight:600">
+                    Delete a Team
+                </h3>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@Model.FullName</li>
+                <li class="list-group-item">@Model.Img</li>
+                <li class="list-group-item">@Model.TwiterReDir @currency</li>
+                <li class="list-group-item">@Model.FaceBookReDir @currency</li>
+                <li class="list-group-item">@Model.InstagramReDir @currency</li>
+                <li class="list-group-item">@Model.Imageurl @percentage</li>
+
+            </ul>
+        </div>
+        <a class="btn btn-success" asp-action="Index" asp-controller="Team">Back To Home</a>
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </div>
+</form>
