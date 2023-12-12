@@ -8,89 +8,89 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mambaa
 build_property.RootNamespace = Mambaa
-build_property.ProjectDir = C:\Users\ll novbe\Desktop\BB206test\Mamba\Mambaa\
+build_property.ProjectDir = C:\Users\hesen\OneDrive\İş masası\Mamba-temp\Mambaa\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ll novbe\Desktop\BB206test\Mamba\Mambaa
+build_property.MSBuildProjectDirectory = C:\Users\hesen\OneDrive\İş masası\Mamba-temp\Mambaa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Account/Login.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Posittion/Create.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Posittion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0dGlvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Posittion/Delete.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Posittion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0dGlvblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Posittion/Index.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Posittion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0dGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Posittion/Update.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Posittion/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0dGlvblxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/TeamContoller/Create.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/TeamContoller/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1Db250b2xsZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/TeamContoller/Delete.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/TeamContoller/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1Db250b2xsZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/TeamContoller/Index.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/TeamContoller/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1Db250b2xsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/TeamContoller/Update.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/TeamContoller/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1Db250b2xsZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/Account/Login.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/Account/Register.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/Home/Index.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/_ViewImports.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/_ViewStart.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/Desktop/BB206test/Mamba/Mambaa/Views/Shared/_Layout.cshtml]
+[C:/Users/hesen/OneDrive/İş masası/Mamba-temp/Mambaa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jwyj2m29nt

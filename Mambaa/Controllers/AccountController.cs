@@ -51,7 +51,8 @@ namespace Mambaa.Controllers
             {
                 Fullname = userregisterviewmodel.Fullname,
                 UserName = userregisterviewmodel.Username,
-                Email = userregisterviewmodel.Email,              
+                Email = userregisterviewmodel.Email,  
+                
             };
 
             var result = await userManager.CreateAsync(appUser1, userregisterviewmodel.Password);

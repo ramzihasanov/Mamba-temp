@@ -27,7 +27,7 @@ builder.Services.AddScoped<ITeamService, TeamService>();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer("Server=DESKTOP-V775DN1;Database=Mambaabb206;Trusted_Connection=True");
+    opt.UseSqlServer("Server=LAPTOP-NMS9BKLR;Database=Mambaabb206;Trusted_Connection=True");
 
 });
 

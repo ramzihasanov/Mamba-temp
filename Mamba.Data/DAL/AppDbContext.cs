@@ -18,7 +18,7 @@ namespace Mamba.Data.DAL
 
         public DbSet<Team> Teams { get; set; }
         public DbSet<Posittion> Posittions { get; set; }
-
+        public DbSet<AppUser> appUsers { get; set; }
 
     }
 }
